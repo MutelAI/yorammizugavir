@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Yoram",
+    "name_en": "Yoram",
+    "site_lang": "en",
+    "phone": "0507370808",
+    "phone_display": "050-737-0808",
+    "whatsapp": "0507370808",
+    "website": "http://yorammizugavir.wixsite.com/freez",
+    "rating": 2.6,
+    "reviews_count": 26,
+    "address_he": "Israel Teiber St 9, Giv'atayim, 5341505",
+    "address_en": "Israel Teiber St 9, Giv'atayim, 5341505",
+    "category_he": "Air Conditioning Repair & Installation",
+    "category_en": "Air Conditioning Repair & Installation",
+    "maps_url": "https://maps.google.com/?q=31.9984517,34.7088861",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCnbaa7icF4KspcVjJxZpoAZzTDaP-L1N3T9Bu0XtdZIzbsL9PunCtEXiwn-wssr7N1r023JIY7vYzrSAYuh64xMsad_GORNgeBcI4J5XTVeFJnXnJbJvtoTsar2HbcoPNpig=w426-h240-k-no",
+    "logo_emoji": "❄️",
+    "geo": {
+      "latitude": 31.9984517,
+      "longitude": 34.7088861
+    },
+    "schema_type": "LocalBusiness",
+    "price_range": "moderate",
+    "source_url": "https://maps.app.goo.gl/KpdjVyxbLivHaEWv8",
+    "cache_key": "KpdjVyxbLivHaEWv8",
+    "logo_url": "https://www.wix.com/favicon.ico"
+  },
+  "editToken": "857ee81e24a0ee4ee6b7844bdf515c97",
+  "hours": [
+    {
+      "day_key": "sunday",
+      "day_he": "Sunday",
+      "day_en": "Sunday",
+      "hours_he": "Open 24 hours",
+      "hours_en": "Open 24 hours",
+      "is_open": true
+    },
+    {
+      "day_key": "monday",
+      "day_he": "Monday",
+      "day_en": "Monday",
+      "hours_he": "Open 24 hours",
+      "hours_en": "Open 24 hours",
+      "is_open": true
+    },
+    {
+      "day_key": "tuesday",
+      "day_he": "Tuesday",
+      "day_en": "Tuesday",
+      "hours_he": "Open 24 hours",
+      "hours_en": "Open 24 hours",
+      "is_open": true
+    },
+    {
+      "day_key": "wednesday",
+      "day_he": "Wednesday",
+      "day_en": "Wednesday",
+      "hours_he": "Open 24 hours",
+      "hours_en": "Open 24 hours",
+      "is_open": true
+    },
+    {
+      "day_key": "thursday",
+      "day_he": "Thursday",
+      "day_en": "Thursday",
+      "hours_he": "Open 24 hours",
+      "hours_en": "Open 24 hours",
+      "is_open": true
+    },
+    {
+      "day_key": "friday",
+      "day_he": "Friday",
+      "day_en": "Friday",
+      "hours_he": "Open 24 hours",
+      "hours_en": "Open 24 hours",
+      "is_open": true
+    },
+    {
+      "day_key": "saturday",
+      "day_he": "Saturday",
+      "day_en": "Saturday",
+      "hours_he": "Open 24 hours",
+      "hours_en": "Open 24 hours",
+      "is_open": true
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Betty Cain",
+      "rating": 5,
+      "text_he": "One of the best service 👌.\nI'm so happy.\nHighly recommended 👍❤️ …",
+      "text_en": "One of the best service 👌.\nI'm so happy.\nHighly recommended 👍❤️ …",
+      "date": "3 years ago",
+      "is_local_guide": false
+    },
+    {
+      "author": "Daria Beauty",
+      "rating": 5,
+      "text_he": "מקצוען! הגיע במהירות ותיקן לנו את המזגן במחיר הוגן. היה סבלני ואדיב. ממליצים מאוד!!!",
+      "text_en": "מקצוען! הגיע במהירות ותיקן לנו את המזגן במחיר הוגן. היה סבלני ואדיב. ממליצים מאוד!!!",
+      "date": "5 years ago",
+      "is_local_guide": false
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCnbaa7icF4KspcVjJxZpoAZzTDaP-L1N3T9Bu0XtdZIzbsL9PunCtEXiwn-wssr7N1r023JIY7vYzrSAYuh64xMsad_GORNgeBcI4J5XTVeFJnXnJbJvtoTsar2HbcoPNpig=w426-h240-k-no",
+      "thumb": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCnbaa7icF4KspcVjJxZpoAZzTDaP-L1N3T9Bu0XtdZIzbsL9PunCtEXiwn-wssr7N1r023JIY7vYzrSAYuh64xMsad_GORNgeBcI4J5XTVeFJnXnJbJvtoTsar2HbcoPNpig=w426-h240-k-no",
+      "source": "owner",
+      "alt_he": "Yoram",
+      "alt_en": "Yoram"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "icon": "🔧",
+      "title_he": "Expert AC Repair",
+      "title_en": "Expert AC Repair",
+      "desc_he": "Swift diagnosis and professional repair for all air conditioning types—split, central, mini-central, ceiling, and floor units. Decades of trusted expertise.",
+      "desc_en": "Swift diagnosis and professional repair for all air conditioning types—split, central, mini-central, ceiling, and floor units. Decades of trusted expertise."
+    },
+    {
+      "id": "2",
+      "icon": "⚡",
+      "title_he": "Professional Installation",
+      "title_en": "Professional Installation",
+      "desc_he": "Safe, efficient installation tailored to your home and needs. We assess your electrical infrastructure and set up your system for comfort and savings.",
+      "desc_en": "Safe, efficient installation tailored to your home and needs. We assess your electrical infrastructure and set up your system for comfort and savings."
+    },
+    {
+      "id": "3",
+      "icon": "✨",
+      "title_he": "Deep Cleaning & Maintenance",
+      "title_en": "Deep Cleaning & Maintenance",
+      "desc_he": "Thorough cleaning to restore cooling performance and air quality. Keep your system running smoothly with our preventive care approach.",
+      "desc_en": "Thorough cleaning to restore cooling performance and air quality. Keep your system running smoothly with our preventive care approach."
+    },
+    {
+      "id": "4",
+      "icon": "🛠️",
+      "title_he": "Original Parts & Warranty",
+      "title_en": "Original Parts & Warranty",
+      "desc_he": "Genuine replacement components for all brands, backed by our promise of quality workmanship and honest service you can rely on.",
+      "desc_en": "Genuine replacement components for all brands, backed by our promise of quality workmanship and honest service you can rely on."
+    },
+    {
+      "id": "5",
+      "icon": "📞",
+      "title_he": "24/7 Emergency Service",
+      "title_en": "24/7 Emergency Service",
+      "desc_he": "Your AC failed when you need it most? We're ready to dispatch a certified technician to restore cool comfort—any hour, any day.",
+      "desc_en": "Your AC failed when you need it most? We're ready to dispatch a certified technician to restore cool comfort—any hour, any day."
+    },
+    {
+      "id": "6",
+      "icon": "🏘️",
+      "title_he": "Gush Dan & Region Coverage",
+      "title_en": "Gush Dan & Region Coverage",
+      "desc_he": "Serving Gush Dan, Sharon, and Shephelah with rapid response times and the same dedication to every neighborhood we've built our reputation on.",
+      "desc_en": "Serving Gush Dan, Sharon, and Shephelah with rapid response times and the same dedication to every neighborhood we've built our reputation on."
+    }
+  ],
+  "translations": {
+    "hero_badge": {
+      "he": "Certified Technician • 24/7 Available ❄️",
+      "en": "Certified Technician • 24/7 Available ❄️"
+    },
+    "hero_subtitle": {
+      "he": "Decades of trusted expertise keeping homes cool. From emergency repairs to seamless installations—Yoram brings professional AC service to your doorstep.",
+      "en": "Decades of trusted expertise keeping homes cool. From emergency repairs to seamless installations—Yoram brings professional AC service to your doorstep."
+    },
+    "hero_available": {
+      "he": "Available 24/7 • Rapid Response • Licensed Professional",
+      "en": "Available 24/7 • Rapid Response • Licensed Professional"
+    },
+    "about_desc": {
+      "he": "For decades, Yoram has been the name Gush Dan residents trust when their air conditioning fails or when they're ready to upgrade. With genuine expertise across every AC type and an unwavering commitment to personal, professional service, we don't just fix units—we restore comfort and peace of mind. Our story is built on thousands of homes cooled, hundreds of systems installed, and countless customers who've learned that Yoram means honest work, fair pricing, and technicians who care.",
+      "en": "For decades, Yoram has been the name Gush Dan residents trust when their air conditioning fails or when they're ready to upgrade. With genuine expertise across every AC type and an unwavering commitment to personal, professional service, we don't just fix units—we restore comfort and peace of mind. Our story is built on thousands of homes cooled, hundreds of systems installed, and countless customers who've learned that Yoram means honest work, fair pricing, and technicians who care."
+    },
+    "about_years_value": {
+      "he": "30+ Years",
+      "en": "30+ Years"
+    },
+    "services_subtitle": {
+      "he": "Complete Air Conditioning Solutions—From Emergency Repairs to Expert Installation",
+      "en": "Complete Air Conditioning Solutions—From Emergency Repairs to Expert Installation"
+    },
+    "services_cta": {
+      "he": "Schedule Your Service Today",
+      "en": "Schedule Your Service Today"
+    },
+    "gallery_subtitle": {
+      "he": "See Our Work in Action",
+      "en": "See Our Work in Action"
+    },
+    "contact_subtitle": {
+      "he": "Ready to cool your home? Call now for immediate dispatch or consultation.",
+      "en": "Ready to cool your home? Call now for immediate dispatch or consultation."
+    },
+    "contact_wa_hello": {
+      "he": "Hi Yoram, I need AC repair service at...",
+      "en": "Hi Yoram, I need AC repair service at..."
+    }
+  },
+  "design": {
+    "hero_layout": "centered",
+    "card_style": "shadow",
+    "button_style": "rounded",
+    "hero_pattern": "none",
+    "gallery_style": "slider",
+    "section_style": "standard",
+    "animation_style": "minimal"
+  }
+}

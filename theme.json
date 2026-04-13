@@ -1,0 +1,10 @@
+{
+  "brand_personality": "Trustworthy, Professional, Reliable, Responsive",
+  "primary_color": "emerald",
+  "secondary_color": "slate",
+  "hero_gradient": "from-slate-950 via-emerald-950 to-slate-900",
+  "contact_gradient": "from-emerald-600 to-emerald-500",
+  "font_heading": "EB Garamond",
+  "font_body": "Lato",
+  "font_google_import": "@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Lato:wght@300;400;700&display=swap');"
+}
